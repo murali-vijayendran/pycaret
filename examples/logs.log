@@ -1,0 +1,23 @@
+2020-08-08 18:38:25,635:INFO:PyCaret NLP Module
+2020-08-08 18:38:25,636:INFO:version 2.0
+2020-08-08 18:38:25,636:INFO:Initializing setup()
+2020-08-08 18:38:25,636:INFO:USI: 16ec
+2020-08-08 18:38:25,636:INFO:setup(data=(6818, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=True,
+                    experiment_name=kiva1, log_plots=True, log_data=False, verbose=True)
+2020-08-08 18:38:25,636:INFO:Checking environment
+2020-08-08 18:38:25,637:INFO:python_version: 3.6.10
+2020-08-08 18:38:25,637:INFO:python_build: ('default', 'May  7 2020 19:46:08')
+2020-08-08 18:38:25,637:INFO:machine: AMD64
+2020-08-08 18:38:25,637:INFO:platform: Windows-10-10.0.17763-SP0
+2020-08-08 18:38:25,755:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2020-08-08 18:38:25,756:INFO:Checking libraries
+2020-08-08 18:38:25,756:INFO:pd==1.1.0
+2020-08-08 18:38:25,756:INFO:numpy==1.19.1
+2020-08-08 18:39:56,290:INFO:gensim==3.8.3
+2020-08-08 18:40:24,072:INFO:spacy==2.3.2
+2020-08-08 18:41:08,193:INFO:nltk==3.5
+2020-08-08 18:41:09,705:INFO:textblob==0.15.3
+2020-08-08 18:41:47,458:INFO:pyLDAvis==2.1.2
+2020-08-08 18:41:53,988:INFO:wordcloud==1.7.0
+2020-08-08 18:42:22,190:INFO:mlflow==1.10.0
+2020-08-08 18:42:22,228:INFO:Checking Exceptions
